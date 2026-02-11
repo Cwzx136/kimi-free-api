@@ -71,27 +71,15 @@ https://udify.app/chat/Po0F6BMJ15q5vu2P
 
 ### Identity Verification
 
-![Identity Verification](./doc/example-1.png)
-
 ### Multi-turn Dialogue
-
-![Multi-turn Dialogue](./doc/example-6.png)
 
 ### Internet Search
 
-![Internet Search](./doc/example-2.png)
-
 ### Long Document Reading
-
-![Long Document Reading](./doc/example-5.png)
 
 ### Image Analysis
 
-![Image Analysis](./doc/example-3.png)
-
 ### Consistent Responsiveness
-
-![Consistent Responsiveness](https://github.com/LLM-Red-Team/kimi-free-api/assets/20235341/48c7ec00-2b03-46c4-95d0-452d3075219b)
 
 ## Access Preparation
 
